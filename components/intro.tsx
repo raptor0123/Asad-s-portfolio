@@ -65,7 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Asad.</span> I'm a{" "}
         <span className="font-bold">Web Developer</span> I enjoy building
-        dynamic web <span className="italic">sites & apps</span>that captivate
+        dynamic web <span className="italic">sites & apps</span> that captivate
         and engage users.
         <br />
         <span className="font-bold">
